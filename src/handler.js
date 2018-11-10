@@ -1,7 +1,7 @@
 const {LineHandler} = require('bottender')
 const olami = require('./nlp/Olami')
 
-const helpMessage = 'Hi~ 本 Bot 是用 http://bit.ly/2uz7wY4 開源程式碼打造\n\n' +
+const helpMessage = 'Hi~歡迎來到NEKO PUSH\n\n' +
     '您可以問我\n' +
     '天氣：「台北天氣如何」\n' +
     '百科：「川普是誰」\n' +
